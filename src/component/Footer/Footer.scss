@@ -1,0 +1,15 @@
+$primary-clolr: #0f171e;
+$secondary-color: #1a242f;
+$font-primary: #FFFFFF;
+$font-secondary: #79b8f3;
+
+.footer{
+    background: $secondary-color;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90px;
+    color: $font-primary;
+    font-weight: bolder;
+    flex-direction: column;
+}
